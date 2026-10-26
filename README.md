@@ -3,12 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Shariful%20Islam%20Hridoy&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20MERN%20Developer%20%7C%203D%20Web%20Creator%20%7C%20AI%20Model%20Trainer&descAlignY=58&descAlign=50" alt="Header Banner" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff007f&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=00f2fe&logoColor=white" alt="GitHub Followers" />
-  </a>
-</p>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" width="100%" />
 
