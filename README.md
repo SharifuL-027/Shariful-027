@@ -1,207 +1,146 @@
-
-<!-- ═══════════════ NEON CYBERPUNK HEADER ═══════════════ -->
+<!-- ═══════════════ PREMIUM 3D HEADER ═══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,30:141E61,65:7B2FF7,100:00E5FF&text=Shariful%20Islam%20Hridoy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%203D%20WEB%20CREATOR%20%7C%20AI%20EXPLORER&descSize=13&descAlignY=58&animation=twinkling&stroke=00E5FF&strokeWidth=1" width="100%" alt="Neon Header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+the+Future+of+the+Web+%F0%9F%9A%80;Full-Stack+MERN+Developer+%F0%9F%92%BB;Creating+Immersive+3D+Experiences+%F0%9F%8C%8C;Exploring+AI+%26+Intelligent+Systems+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%E2%9A%A1" alt="Typing Animation"/>
+<!-- Replace the src below with a GIF of one of your Three.js creations or a sleek 3D abstract loop -->
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" height="250" style="object-fit: cover; border-radius: 12px;" alt="3D Abstract Banner"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-00e5ff?style=for-the-badge" alt="Status"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Shariful+Islam+Hridoy;Full-Stack+MERN+Engineer;Crafting+Immersive+3D+Web+Experiences;Exploring+AI+%26+Intelligent+Systems" alt="Typing Animation"/>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/View%203D%20Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=050816&color=7B2FF7" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=050816&color=050816" alt="LinkedIn"/></a>
+</p>
 
 </div>
 
 ---
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
+<!-- ═══════════════ ABOUT THE ARCHITECT ═══════════════ -->
 
-## 🌌 `01` — WHO AM I?
-
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding"/>
-
-```js
-const shariful = {
-  name: "Shariful Islam Hridoy",
-  role: "Full-Stack MERN Developer",
-  education: "CSE @ IUBAT, Dhaka",
-  focus: [
-    "Full-Stack Development",
-    "3D Interactive Websites",
-    "E-commerce Platforms",
-    "AI & Computer Vision"
-  ],
-  currentlyBuilding: "Something Extraordinary",
-  philosophy: "Imagine. Engineer. Innovate."
-};
-```
-
-- 🚀 Building modern, scalable web applications.
-- 🎨 Crafting immersive 3D websites and interactive interfaces.
-- 🧠 Exploring AI, YOLOv9 and Explainable AI.
-- 🛍️ Developing high-performance e-commerce platforms.
-- ⚡ Obsessed with creative UI, smooth animations and clean code.
-
-<br clear="both"/>
-
----
-
-## ⚡ `02` — THE TECH ARSENAL
-
-<div align="center">
-
-### 🌐 Frontend Engineering
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap&theme=dark&perline=9" alt="Frontend Skills"/>
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,python&theme=dark&perline=6" alt="Backend Skills"/>
-
-### 🧊 3D, Animation & Creative Development
-
-<img src="https://skillicons.dev/icons?i=threejs,blender,gsap&theme=dark&perline=3" alt="3D Skills"/>
-
-### 🤖 AI, Development & Deployment
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,postman,vercel,netlify&theme=dark&perline=7" alt="Tools"/>
-
-</div>
-
----
-
-## 🚀 `03` — PROJECTS FROM MY UNIVERSE
-
-<table>
-<tr>
-<td width="50%">
-
-### 🪐 Interactive 3D Portfolio
-
-Immersive portfolio with 3D environments, cinematic animations, custom models and interactive user experiences.
-
-**Stack:** React · Three.js · React Three Fiber · GSAP
-
-</td>
-<td width="50%">
-
-### 🛍️ Fast-n-Food & WBB
-
-Modern food ordering and cosmetics e-commerce platforms with responsive layouts and smooth animations.
-
-**Stack:** React · Express · MongoDB
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏠 Rental House Management
-
-A property management solution developed during practicum/internship, focused on practical business workflows.
-
-**Stack:** MERN Stack
-
-</td>
-<td width="50%">
-
-### 🧠 AI Object Detection
-
-AI model training and object detection experiments using YOLOv9 and Explainable AI techniques.
-
-**Stack:** Python · YOLOv9 · XAI
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 💎 Finclare
-
-A premium financial consulting web application featuring a modern interface and automated Google Calendar scheduling.
-
-**Stack:** Next.js · React · Tailwind CSS
-
-</td>
-</tr>
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <td width="60%" style="border: none;">
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="25" height="25" /> <code>sys.whoami</code></h2>
+      <p>I am a Full-Stack Developer specializing in the MERN stack with a deep passion for <strong>Three.js</strong> and <strong>WebGL</strong>. I don't just build websites; I engineer interactive, spatial web experiences that live inside the browser.</p>
+      <p>Currently bridging the gap between <strong>spatial computing (3D)</strong>, <strong>modern web architecture</strong>, and <strong>Artificial Intelligence (YOLOv9/Computer Vision)</strong>.</p>
+      <blockquote>
+        <p><em>"Designing in three dimensions, engineering in all of them."</em></p>
+      </blockquote>
+    </td>
+    <td width="40%" align="center" style="border: none;">
+      <!-- A clean, floating 3D element -->
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="3D Laptop" width="150" />
+    </td>
+  </tr>
 </table>
 
-> 💡 Replace these project descriptions with links to your actual GitHub repositories or live websites.
-
 ---
 
-## 📊 `04` — GITHUB COMMAND CENTER
+<!-- ═══════════════ TECH STACK MATRIX ═══════════════ -->
 
 <div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /> The Arsenal</h2>
+  
+  <p><strong>🌐 Architecture & Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,html,css&theme=dark" alt="Frontend Skills"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7B2FF7&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
+  <p><strong>⚙️ Backend & Data</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,python&theme=dark" alt="Backend Skills"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=050816&ring=7B2FF7&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050816&color=00E5FF&line=7B2FF7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Galaxy" alt="Contribution Graph"/>
-
+  <p><strong>🧊 3D & Creative Engineering</strong></p>
+  <img src="https://skillicons.dev/icons?i=threejs,blender,gsap,wasm&theme=dark" alt="3D Skills"/>
+  
+  <p><strong>🤖 AI & Deployment</strong></p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vercel,docker,git,github&theme=dark" alt="Tools"/>
 </div>
+
+<br/>
 
 ---
 
-## 🐍 `05` — CONTRIBUTION SNAKE
+<!-- ═══════════════ FEATURED PROJECTS (3D CARDS) ═══════════════ -->
 
-<div align="center">
+## 🪐 Spatial & Scalable Projects
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+*(Pro-tip: Replace the image URLs below with isometric/tilted screenshots of your actual projects to give a 3D popping effect)*
 
-</div>
-
-> To activate the snake animation, configure a GitHub Actions workflow to generate the SVG and commit it to your repository's `output` branch.
+<table border="0" bordercolor="transparent">
+  <tr>
+    <td width="50%" align="center">
+      <a href="YOUR_PROJECT_LINK">
+        <!-- Add a 3D isometric mockup of your project here -->
+        <img src="https://via.placeholder.com/400x225/050816/00E5FF?text=Interactive+3D+Portfolio" width="100%" style="border-radius: 8px;" alt="Portfolio Mockup"/>
+      </a>
+      <br/><br/>
+      <b>Interactive 3D Portfolio</b><br/>
+      <i>React • Three.js • R3F • GSAP</i><br/>
+      Immersive web environment featuring cinematic camera animations, custom 3D models, and physics-based interactions.
+    </td>
+    <td width="50%" align="center">
+      <a href="YOUR_PROJECT_LINK">
+        <img src="https://via.placeholder.com/400x225/050816/7B2FF7?text=Finclare+Platform" width="100%" style="border-radius: 8px;" alt="Finclare Mockup"/>
+      </a>
+      <br/><br/>
+      <b>Finclare Consulting</b><br/>
+      <i>Next.js • Tailwind • Node.js</i><br/>
+      Premium financial consulting application with automated Google Calendar scheduling and a sleek, modern UI.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <br/>
+      <a href="YOUR_PROJECT_LINK">
+        <img src="https://via.placeholder.com/400x225/050816/00E5FF?text=AI+Object+Detection" width="100%" style="border-radius: 8px;" alt="AI Mockup"/>
+      </a>
+      <br/><br/>
+      <b>Vision AI / YOLOv9</b><br/>
+      <i>Python • YOLOv9 • TensorFlow</i><br/>
+      Computer vision model training utilizing Explainable AI techniques to understand and visualize object detection decisions.
+    </td>
+    <td width="50%" align="center">
+      <br/>
+      <a href="YOUR_PROJECT_LINK">
+        <img src="https://via.placeholder.com/400x225/050816/7B2FF7?text=Fast-N-Food+E-Commerce" width="100%" style="border-radius: 8px;" alt="E-com Mockup"/>
+      </a>
+      <br/><br/>
+      <b>Fast-n-Food Commerce</b><br/>
+      <i>MongoDB • Express • React • Node</i><br/>
+      High-performance scalable food ordering platform with real-time state management and fluid animations.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 `06` — CURRENT MISSION
+<!-- ═══════════════ ANALYTICS & ACTIVITY ═══════════════ -->
 
-<div align="center">
-
-| ⚡ Mission | 🚀 Objective |
-|:---|:---|
-| Full-Stack | Build scalable MERN applications |
-| 3D Web | Create immersive interactive experiences |
-| AI Engineering | Explore intelligent computer vision systems |
-| UI/UX | Design memorable digital experiences |
-| Open Source | Build and share useful developer tools |
-
-</div>
-
----
-
-## 🌐 `07` — CONNECT TO MY NETWORK
+## 📊 Telemetry Data
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7B2FF7&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
-<img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=FF4B91" alt="Email"/>
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=7B2FF7" alt="Portfolio"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2FF7,100:050816&height=120&section=footer" width="100%" alt="Footer"/>
+<!-- Generate this snake by setting up the GitHub Action! -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="95%">
+</picture>
 
-### `CODE` · `CREATE` · `INNOVATE` · `REPEAT`
+</div>
 
-**Building tomorrow, one commit at a time.** ⚡
+<br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2FF7,100:050816&height=80&section=footer" width="100%" alt="Footer"/>
+  <p><code>[ INITIATING NEXT COMMIT ]</code></p>
 </div>
