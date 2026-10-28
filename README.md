@@ -9,8 +9,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VISITORS&color=00e5ff&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=7b2ff7&logo=github" alt="Followers"/>
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-00e5ff?style=for-the-badge" alt="Status"/>
 
 </div>
